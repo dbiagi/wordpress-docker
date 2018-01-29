@@ -1,0 +1,11 @@
+# Log and temporary files
+*.log
+*.tmp
+*.temp
+.env
+
+# Upload media files
+wp-content/uploads/
+
+# IDE files
+.idea/
